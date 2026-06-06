@@ -1,0 +1,8 @@
+# Chặn các file model đã train
+*.pkl
+
+# Chặn file ảnh biểu đồ/kết quả
+*.png
+
+# Chặn file font chữ
+*.ttf
